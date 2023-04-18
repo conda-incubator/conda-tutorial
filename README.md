@@ -29,4 +29,10 @@ Workshop participants will gain a basic understanding of software packaging, and
 
 ## Misc. References
 
-[coming soon]
+* [Conda and Grayskull, the Masters of Software Packaging](https://labs.quansight.org/blog/2022/01/conda-grayskull-packaging)
+* [Python Packaging User Guide](https://packaging.python.org/en/latest/)
+* [Packaging Software with Conda](https://computing.docs.ligo.org/conda/packaging/)
+* [Contributing Packages to Conda-Forge](https://conda-forge.org/docs/user/introduction.html#can-i-contribute-packages-to-conda-forge)
+* [How to Build Conda Packages](https://www.underworldcode.org/articles/build-conda-packages/)
+* [Conda-Forge Staged Recipes GitHub Repository](https://github.com/conda-forge/staged-recipes)
+* [Adding Anaconda PowerShell on Windows Terminal](https://medium.com/@shouke.wei/windows-python-developers-had-better-setup-earlier-iv-add-anaconda-powershell-on-windows-8942dd9cc1a)
